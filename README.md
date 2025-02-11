@@ -2,7 +2,7 @@
 
 Bu proje, ders ve program çıktıları arasındaki ilişkileri analiz etmek ve öğrenci başarı oranlarını hesaplamak için geliştirilmiştir. SQL Server ile veri tabanı yönetimi sağlanırken, Python ile veri işleme ve OpenPyXL ile Excel entegrasyonu gerçekleştirilmiştir.
 - **Yapılış Tarihi:** 30 Aralık 2024  
-- **Son Güncelleme:** 7 Şubat 2024
+- **Son Güncelleme:** 7 Şubat 2025
 
 ## 🎯 Projenin Amacı
 - Ders ve program çıktıları arasındaki ilişkileri analiz etmek.
